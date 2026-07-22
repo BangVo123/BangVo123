@@ -5,7 +5,7 @@
 | Healthcare Product | Building Secure & Scalable Applications
 -->
 
-Currently, I work at a product company in the healthcare domain, where I develop and maintain applications that help improve healthcare services and enhance operational efficiency.
+'m a Full Stack Developer passionate about designing and building reliable software that solves real-world problems. Currently, I work at a **product company in the healthcare domain**, where I develop and maintain applications that help improve healthcare services and enhance operational efficiency.
 
 I enjoy turning complex business requirements into clean, maintainable, and scalable solutions while continuously learning new technologies and software architecture patterns.
 
