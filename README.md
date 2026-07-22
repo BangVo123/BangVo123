@@ -45,7 +45,6 @@ I enjoy turning complex business requirements into clean, maintainable, and scal
 * SQL Server
 * PostgreSQL
 * MySQL
-* Redis
 
 ### DevOps & Tools
 
@@ -76,7 +75,7 @@ I enjoy turning complex business requirements into clean, maintainable, and scal
 * Clean Code
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
