@@ -73,8 +73,6 @@ I enjoy turning complex business requirements into clean, maintainable, and scal
 * Performance Optimization
 * Secure Application Development
 * Clean Code
-
----
 <!--
 ## 📊 GitHub Stats
 
